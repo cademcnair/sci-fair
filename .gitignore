@@ -1,0 +1,11 @@
+analysis-*
+results-*
+results
+models-*
+models
+time-models
+time-results
+*.zip
+log
+train
+graph

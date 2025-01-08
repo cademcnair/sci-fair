@@ -8,6 +8,17 @@
     "string": "cpp",
     "string_view": "cpp",
     "ostream": "cpp",
-    "iostream": "cpp"
+    "iostream": "cpp",
+    "fstream": "cpp",
+    "thread": "cpp",
+    "__split_buffer": "cpp",
+    "ios": "cpp",
+    "cmath": "cpp",
+    "ratio": "cpp",
+    "filesystem": "cpp",
+    "__config": "cpp",
+    "new": "cpp",
+    "algorithm": "cpp",
+    "bitset": "cpp"
   }
 }
